@@ -2,7 +2,7 @@
 
 
 
-My name is Yaroslav Kutsela. Simple guy who love technology.
+My name is YK. Simple guy who love technology.
 
 - :godmode: My telegram channel for mostly intresting information - https://t.me/source_coding
 - :rage2: My email - serwserw293@gmail.com
@@ -10,3 +10,4 @@ My name is Yaroslav Kutsela. Simple guy who love technology.
 - :feelsgood: From Lviv, Ukraine
 
 
+Yaroslav Kutsela
