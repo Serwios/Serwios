@@ -18,8 +18,6 @@ I just love what I do and try to be the best at it.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serwios)
 <br />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Serwios&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serwios&layout=compact)](https://github.com/Serwios/github-readme-stats)
 
 
