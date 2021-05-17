@@ -9,10 +9,10 @@ I just love what I do and try to be the best at it.
 - :feelsgood: I study backend, Spring and Java mainly
 
 ## Skills
-- 👨‍💻 Java, Python
+- :computer: Java, Python
 - ⚙️ Spring, JPA, Hibernate
-- 👁️ HTML, CSS
-- 💽 MySQL, SQL, MariaDB
+- :art: HTML, CSS
+- :floppy_disk: MySQL, SQL, MariaDB
 
 ## Stats:  
 
