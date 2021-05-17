@@ -10,7 +10,6 @@ Hello there! My name is Yaroslav Kutsela. I just love what I do and try to be th
 
 **Languages and Tools:**    
 
-**Stats:
-**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serwios)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serwios&layout=compact)]
