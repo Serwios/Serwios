@@ -5,7 +5,7 @@ Hello there! My name is Yaroslav Kutsela. I just love what I do and try to be th
 
 - :suspect: From Lviv Ukraine
 - :hurtrealbad: My telegram channel - @https://t.me/source_coding
-- :feelsgood: 
+- :feelsgood: I study backend, Spring and Java mainly
 
 **Languages and Tools:**    
 
