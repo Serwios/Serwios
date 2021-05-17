@@ -5,7 +5,7 @@ Hello there! My name is Yaroslav Kutsela. Student of micro- and nano systems tec
 I just love what I do and try to be the best at it.
 
 - :suspect: From Lviv Ukraine
-- :hurtrealbad: My telegram channel - @https://t.me/source_coding
+- :hurtrealbad: My telegram channel - https://t.me/source_coding
 - :feelsgood: I study backend, Spring and Java mainly
 
 ## Skills
