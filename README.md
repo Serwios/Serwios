@@ -1,6 +1,5 @@
 ### Hi there, I'm Yaroslav! 👋
 <br />
-<br />
 
 Hello there! My name is Yaroslav Kutsela. I just love what I do and try to be the best at it.
 
