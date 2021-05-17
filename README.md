@@ -18,6 +18,6 @@ I just love what I do and try to be the best at it.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serwios)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serwios&layout=compact)](https://github.com/Serwios/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serwios&layout=compact)](https://github.com/Serwios/github-readme-stats)
 
 
