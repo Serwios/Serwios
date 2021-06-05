@@ -1,7 +1,7 @@
 ### Hi there, I'm Yaroslav! 👋
 <br />
 
-Hello there! My name is Yaroslav Kutsela. Student of micro- and nano systems technology (Engineering) <br />
+Hello there! My name is Yaroslav. Student of micro- and nano systems technology (Engineering) <br />
 I just love what I do and try to be the best at it.
 
 - :suspect: From Lviv Ukraine
