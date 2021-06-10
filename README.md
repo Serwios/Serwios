@@ -1,7 +1,7 @@
 ### Hi there, I'm Yaroslav! 👋
 <br />
 
-Hello there! My name is Yaroslav. <br />
+Hello there! My name is Yaroslav. Micro- and nano tech student <br />
 I just love what I do and try to be the best at it.
 
 - :suspect: From Ukraine
