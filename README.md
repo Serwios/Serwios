@@ -5,7 +5,7 @@ Hello there! My name is Yaroslav. Micro and nano tech student <br />
 I just love what I do and try to be the best at it.
 
 - :suspect: From Ukraine
-- :hurtrealbad: Telegram - https://t.me/source_coding
+- :hurtrealbad: Channel - https://t.me/source_coding
 - :feelsgood: I study backend, Spring and Java mainly
 
 - :right_anger_bubble: Connect - https://t.me/yaarslaav
