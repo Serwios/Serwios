@@ -1,5 +1,3 @@
-# 👋 Hello, I'm [Yaroslav]!
-
 [![Visits Badge](https://badges.pufler.dev/visits/username/username)](https://github.com/Serwios)
 [![Years Badge](https://badges.pufler.dev/years/username)](https://github.com/Serwios)
 [![Repos Badge](https://badges.pufler.dev/repos/username)](https://github.com/Serwios)
