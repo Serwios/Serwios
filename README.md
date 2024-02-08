@@ -11,9 +11,3 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Serwios)](https://github.com/username)
-
-## 
-
-![Funny Animation](https://media.giphy.com/media/Z9WQLSrsQKH3u9wqDK/giphy.gif)
-
-
