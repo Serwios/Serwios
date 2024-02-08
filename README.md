@@ -10,11 +10,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serwios&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serwios&layout=compact&theme=radical)
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Serwios)](https://github.com/username)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serwios&layout=compact&theme=radical)
 
 
